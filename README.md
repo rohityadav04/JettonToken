@@ -3,9 +3,9 @@
 This project has ready to use TACT compiler, typescript + jest with [tact-emulator](https://github.com/tact-lang/tact-emulator), example how to do tests.
 
 ```bash
-yarn test # To test contract
-yarn build # To build contract
-yarn deploy # To deploy contract
+npm test # To test contract
+npm  build # To build contract
+npm deploy # To deploy contract
 ```
 ## Deployment
 
